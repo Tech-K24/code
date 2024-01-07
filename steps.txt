@@ -15,3 +15,5 @@ git remote add origin https://github.com/Tech-K24/code.git
 1. git add "filename"
 2. git commit -m  "Your message on commit"
 3. git push -U origin main
+
+From git
