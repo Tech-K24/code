@@ -1,0 +1,17 @@
+Set up git hub  - https://git-scm.com/download/win
+
+git config --glipbal user.name ""
+git config --global user.password ""
+
+Create a GitHub Repository
+
+Initiate git connection - git init
+
+Pushing data to Git Repository
+
+git branch -M main
+git remote add origin https://github.com/Tech-K24/code.git
+
+1. git add "filename"
+2. git commit -m  "Your message on commit"
+3. git push -U origin main
